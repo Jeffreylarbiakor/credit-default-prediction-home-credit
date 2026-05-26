@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Home Credit dataset and project-specific artifacts
+data/
+*.csv
+*.zip
+*.feather
+*.parquet
+
+# Trained models
+models/
+*.pkl
+*.joblib
+*.h5
+
+# SHAP explanation outputs (if cached to disk)
+shap_outputs/
+
+# Kaggle credentials
+kaggle.json
