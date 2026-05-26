@@ -1,0 +1,24 @@
+# Core data stack
+pandas==2.2.3
+numpy==1.26.4
+scipy==1.13.1
+
+# Modelling
+scikit-learn==1.5.2
+lightgbm==4.5.0
+optuna==4.0.0
+
+# Interpretation
+shap==0.46.0
+
+# Visualisation
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Notebook
+jupyter==1.1.1
+ipykernel==6.29.5
+
+# Utilities
+joblib==1.4.2
+tqdm==4.66.5
