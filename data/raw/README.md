@@ -12,7 +12,7 @@ pip install kaggle
 
 ### 2. Set up API credentials
 
-- Go to https://www.kaggle.com/settings/account
+- Go to <https://www.kaggle.com/settings/account>
 - Click **Create New Token** under the API section. This downloads `kaggle.json`.
 - Move it to the expected location:
 
@@ -24,7 +24,7 @@ chmod 600 ~/.kaggle/kaggle.json
 
 ### 3. Accept the competition rules
 
-You must accept the competition rules on Kaggle before downloading: https://www.kaggle.com/competitions/home-credit-default-risk/rules
+You must accept the competition rules on Kaggle before downloading: <https://www.kaggle.com/competitions/home-credit-default-risk/rules>
 
 ### 4. Download into this directory
 
