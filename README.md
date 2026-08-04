@@ -213,7 +213,6 @@ Run notebooks in order: `01_eda` → `02_feature_engineering` → `03_modeling` 
 - Fixed random seeds (`SEED=42`) for splits, model initialisation, and the Optuna sampler
 - Train-statistic-only imputation (no leakage from test medians into train)
 - Scaling fitted inside the CV fold loop for the LR baseline
-- LightGBM uses native NaN handling on a separate feature matrix; LR uses median-imputed inputs
 
 ## License
 
