@@ -7,11 +7,7 @@ End-to-end credit scoring model on the Home Credit Default Risk dataset, built a
 
 ---
 
-## Business problem
 
-Lenders face an asymmetric risk: approving an applicant who defaults costs more than declining one who would have repaid. The job of a credit scoring model is to **rank applicants by default probability** so the lender can set an approval threshold that balances portfolio growth against loss provisioning.
-
-This project builds and evaluates such a ranking model on the publicly available Home Credit Default Risk dataset, using the metric choices, validation protocol, and operating-point framing a working credit team would actually use.
 
 ## Dataset
 
